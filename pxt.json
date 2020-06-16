@@ -1,0 +1,21 @@
+{
+    "name": "11. 駆動サーボ",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "maqueen": "github:dfrobot/pxt-maqueen#49038ca3fa131d1a7cbb77933b56208b4a002596"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
